@@ -1,4 +1,4 @@
-# DataVisualizationProject
+# MLProject
 🧠 This project demonstrates the construction of a machine learning pipeline using Scikit-learn to predict apartment rental prices in the United States. The workflow follows a simplified version of the end-to-end machine learning process, including data preprocessing, pipeline creation, model training, and evaluation.
 
 📌 Project Overview
